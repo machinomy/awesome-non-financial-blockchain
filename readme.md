@@ -45,7 +45,7 @@
 - [Electron](http://www.electron.org.uk/) - Reinventing energy on blockchain.
 - [GridSingularity](http://gridsingularity.com) - Blockchain for Smart Grid. Declare three years of work on the technology.
 - [bankymoon](http://bankymoon.co.za/) - Blockchain consultancy. [Presented](http://goo.gl/L6vJBx) bitcoin-topped smart electricity meter. Once topped up, it chooses a plan, and starts moving energy.
-- [lo3 energy](http://lo3energy.com) - Energy Services, Product Research & Development. Makers of Brooklyn Smart Microgrid along with [ConsenSys](https://consensys.net).
+- [lo3 energy](http://lo3energy.com) - Energy Services, Product Research & Development. Makers of [Brooklyn Microgrid](http://brooklynmicrogrid.com) along with [ConsenSys](https://consensys.net).
 - [lumo](https://lumoenergy.com.au) - Energy provider. Experiment with blockchain.
 - [Terraledger](https://terraledger.com) - Provider of Renewable Energy Certificates.
 - [Solar Change](http://www.solarchange.co/) - Makers of [Solar Coin](http://solarcoin.org/). AltCoin for a MW of solar power.
