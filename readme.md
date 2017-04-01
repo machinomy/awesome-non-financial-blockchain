@@ -24,6 +24,7 @@
 - [KYC Chain](http://kyc-chain.com) - Secure platform for sharing verifiable identity claims, data or documents among financial institutions.
 - [UniquID](http://uniquid.com) - Identity both for people and devices.
 - [ObjectChain Collab](http://www.objectchain-collab.com) - Cross-industry collaboration over distributed identity.
+- [Vida Identity](https://vidaidentity.com) - Enterprise-grade Blockchain Identity Software.
 
 ### Guidance
 - [ID3](https://idcubed.org) - Institute for Data Driven Design, explores issues around self-sovereign identity, and distributed organizations.
