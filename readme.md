@@ -2,13 +2,18 @@
 
 > Curated list of projects that build non-financial applications of blockchain.
 
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)).
+
+Most applications of blockchain lie in a financial realm. That makes non-financial applications even more intriguing.
+
 ## Contents
 
-- [Identity](#identity)
-- [Internet of Things](#internet-of-things)
-- [Energy](#energy)
+- [Identity Applications](#identity-applications)
+- [Internet of Things Applications](#internet-of-things-applications)
+- [Energy Applications](#energy-applications)
+- [Talks and books](#talks-and-books)
 
-## Identity
+## Identity Applications
 
 ### Public Blockchain Identity
 - [uPort](https://www.uport.me) - Self-Sovereign identity on [Ethereum](https://ethereum.org) by [ConsenSys](https://consensys.net).
@@ -32,7 +37,7 @@
 - [TAO Network Identity](http://tao.network/portfolio-item/the-identity-system/) - description of blockchain identity by Tao.Network.
 
 
-## Internet of Things
+## Internet of Things Applications
 - [Machinomy](http://machinomy.com) - Distributed platform for IoT micropayments.
 - [Project Oaken](https://www.projectoaken.com) - IoT blockchain platform.
 - [Chronicled](http://www.chronicled.com) - IoT devices registry on blockchain.
@@ -41,7 +46,8 @@
 - [Slock.it](https://slock.it) - Ethereum-based platform for building Shared Things.
 - [21](https://21.co) - Micropayments for HTTP API over BitCoin payment channels, and library for IoT applications
 
-## Energy
+
+## Energy Applications
 
 - [Electron](http://www.electron.org.uk/) - Reinventing energy on blockchain.
 - [GridSingularity](http://gridsingularity.com) - Blockchain for Smart Grid. Declare three years of work on the technology.
@@ -53,6 +59,12 @@
 - [PowerPeers](https://www.powerpeers.nl/) - Peer-to-peer energy marketplace in the Netherlands.
 - [PowerLedger](https://powerledger.io) - Decentralised energy marketpace.
 - [Co-Tricity](https://co-tricity.com/) - Decentralised energy marketplace by [Innogy](https://innovationhub.innogy.com/) and [ConsenSys](https://consensys.net).
+
+
+## Talks and Books
+- [EventHorizon](http://eventhorizon2017.com) - First global summit on blockchain technology in Energy Sector.
+- [Blockchain Revolution](http://blockchain-revolution.com) - Probably the best book on blockchain applications.
+
 
 ## License
 
