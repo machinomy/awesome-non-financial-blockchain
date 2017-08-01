@@ -34,7 +34,7 @@ Most applications of blockchain lie in a financial realm. That makes non-financi
 ### Guidance
 - [ID3](https://idcubed.org) - Institute for Data Driven Design, explores issues around self-sovereign identity, and distributed organizations.
 - [OpenCreds](http://opencreds.org) - W3C Credentials Community Group.
-- [TAO Network Identity](http://tao.network/portfolio-item/the-identity-system/) - description of blockchain identity by Tao.Network.
+- [TAO Network Identity](http://tao.network/portfolio-item/the-identity-system/) - Description of blockchain identity by Tao.Network.
 
 
 ## Internet of Things Applications
