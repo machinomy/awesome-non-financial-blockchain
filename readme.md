@@ -64,6 +64,9 @@ Most applications of blockchain lie in a financial realm. That makes non-financi
 ## Talks and Books
 - [EventHorizon](http://eventhorizon2017.com) - First global summit on blockchain technology in Energy Sector.
 - [Blockchain Revolution](http://blockchain-revolution.com) - Probably the best book on blockchain applications.
+- [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book.
+- [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
+- [19 Industries The Blockchain Will Disrupt](https://www.youtube.com/watch?v=G3psxs3gyf8) - List of industries to be changed by blockchain.
 
 
 ## License
