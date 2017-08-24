@@ -18,6 +18,7 @@ Most applications of blockchain lie in a financial realm. That makes non-financi
 ### Public Blockchain Identity
 - [uPort](https://www.uport.me) - Self-Sovereign identity on [Ethereum](https://ethereum.org) by [ConsenSys](https://consensys.net).
 - [Blockstack](https://blockstack.org) - Platform for decentralized, server-less apps where users control their data. Identity included.
+- [Jolocom](https://jolocom.com) - Self-sovereing identity wallet.
 - [Evernym](http://www.evernym.com) - Self-Sovereign identity built on top of open source permissioned blockchain.
 - [SIN](https://en.bitcoin.it/wiki/Identity_protocol_v1) - Proposed identity protocol for BitCoin.
 
