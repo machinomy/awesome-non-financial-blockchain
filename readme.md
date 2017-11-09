@@ -6,7 +6,7 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 Most applications of blockchain lie in a financial realm. That makes non-financial applications even more intriguing.
 
-Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://21.co) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
+Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://21.co) (now [Earn.com](https://earn.com)) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
 
 ## Contents
 
