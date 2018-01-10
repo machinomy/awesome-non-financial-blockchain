@@ -70,7 +70,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 - [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
 - [19 Industries The Blockchain Will Disrupt](https://www.youtube.com/watch?v=G3psxs3gyf8) - List of industries to be changed by blockchain.
-
+- [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Technical book on how to to build decentralized applications on the Ethereum blockchain.
 
 ## License
 
