@@ -46,7 +46,6 @@ Industry of a blockchain application is defined by the one that is changed the m
 
 ## Internet of Things Applications
 
-- [21](https://21.co) - Micropayments for HTTP API over BitCoin payment channels, and library for IoT applications
 - [Chronicled](http://www.chronicled.com) - IoT devices registry on blockchain.
 - [Filament](http://filament.com) - Software and hardware for decentralized Intranet of Things systems
 - [IOTA](http://www.iotatoken.com) - Decentralized Internet of Things token on blockless blockchain.
