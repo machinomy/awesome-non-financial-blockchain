@@ -24,6 +24,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [Jolocom](https://jolocom.com) - Self-sovereing identity wallet.
 - [SIN](https://en.bitcoin.it/wiki/Identity_protocol_v1) - Proposed identity protocol for BitCoin.
 - [uPort](https://www.uport.me) - Self-Sovereign identity on [Ethereum](https://ethereum.org) by [ConsenSys](https://consensys.net).
+- [Steem](https://steem.io) - Decentralized social network which incentivises content creation and curation.
 
 ### Blockchain as a collateral
 
