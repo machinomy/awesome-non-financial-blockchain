@@ -66,6 +66,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [PowerPeers](https://www.powerpeers.nl/) - Peer-to-peer energy marketplace in the Netherlands.
 - [Solar Change](http://www.solarchange.co/) - Makers of [Solar Coin](http://solarcoin.org/). AltCoin for a MW of solar power.
 - [Terraledger](https://terraledger.com) - Provider of Renewable Energy Certificates.
+- [ImpactPPA](https://impactppa.com) - Reinvesting of power generated under Power Purchase Agreement in more PPAs.
 
 ## Media and Journalism
 
