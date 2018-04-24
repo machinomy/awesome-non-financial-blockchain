@@ -67,6 +67,12 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [Solar Change](http://www.solarchange.co/) - Makers of [Solar Coin](http://solarcoin.org/). AltCoin for a MW of solar power.
 - [Terraledger](https://terraledger.com) - Provider of Renewable Energy Certificates.
 
+## Media and Journalism
+
+- [Steem](https://steem.io) - Decentralized social network which incentivises content creation and curation.
+- [PopChest](https://popchest.com) - Incentivized distributed video platform.
+- [Civil](https://joincivil.com) - Decentralized newsmaking platform. 
+
 
 ## Talks and Books
 
