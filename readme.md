@@ -74,6 +74,9 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [PopChest](https://popchest.com) - Incentivized distributed video platform.
 - [Civil](https://joincivil.com) - Decentralized newsmaking platform. 
 
+## Enterprise Blockchain Deployment Tools 
+
+- [WorldSibu - Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator
 
 ## Talks and Books
 
