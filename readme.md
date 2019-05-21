@@ -77,6 +77,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 ## Enterprise Blockchain Deployment Tools 
 
 - [WorldSibu - Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator
+- [Tellus](https://worldsibu.tech/tellus) - Smart Contract Transactional designer for enteprise (Hyperledger Fabric)
 
 ## Talks and Books
 
