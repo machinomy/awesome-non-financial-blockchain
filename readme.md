@@ -21,7 +21,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 
 - [Blockstack](https://blockstack.org) - Platform for decentralized, server-less apps where users control their data. Identity included.
 - [Evernym](http://www.evernym.com) - Self-Sovereign identity built on top of open source permissioned blockchain.
-- [Jolocom](https://jolocom.com) - Self-sovereing identity wallet.
+- [Jolocom](https://jolocom.com) - Self-sovereign identity wallet.
 - [SIN](https://en.bitcoin.it/wiki/Identity_protocol_v1) - Proposed identity protocol for BitCoin.
 - [uPort](https://www.uport.me) - Self-Sovereign identity on [Ethereum](https://ethereum.org) by [ConsenSys](https://consensys.net).
 
